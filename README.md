@@ -1,4 +1,4 @@
-# DoorNet1 每天自动更新插件和内核版本。
+# DoorNet1 每天自动更新插件和内核版本。<img src="https://img.shields.io/github/downloads/DHDAXCW/DoorNet_Series/total.svg?style=for-the-badge&color=32C955"/>
 # 机场推荐 [ENET--IEPL内网专线接入](https://www.easy2022.com/#/register?code=Ut7iWMrk)
 ## 👉使用本固件前，请严格遵守国家互联网使用相关法律规定,不要违反国家法律规定！👈
 
