@@ -29,6 +29,9 @@ svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-18.06-k5.4/pa
 mkdir package/community
 pushd package/community
 
+# Add luci-app-irqbalance by QiuSimons https://github.com/QiuSimons/OpenWrt-Add
+svn export https://github.com/QiuSimons/OpenWrt-Add/trunk/luci-app-irqbalance
+
 # Add Lienol's Packages
 git clone --depth=1 https://github.com/Lienol/openwrt-package
 rm -rf ../../customfeeds/luci/applications/luci-app-kodexplorer
